@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <RootNamespace>AzureTest.Domain</RootNamespace>
+    <AssemblyName>AzureTest.Domain</AssemblyName>
+  </PropertyGroup>
+
+</Project>
